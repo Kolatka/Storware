@@ -24,7 +24,7 @@ Input:
 ```
 $ java -jar target\calculator-1.0.jar target\example1.txt
 ```
-Otput:
+Output:
 ```
 36.0
 ```
@@ -37,7 +37,7 @@ Input:
 ```
 $ java -jar target\calculator-1.0.jar target\example1.txt -full
 ```
-Otput:
+Output:
 ```
 10.0 + 2.0 * 3.0 = 36.0
 ```
